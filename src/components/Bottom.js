@@ -14,7 +14,7 @@ return (
                 </div>
             </div>
             <div>
-                <Obfuscate email="christoffer@nelu.dk"></Obfuscate>    
+                <Obfuscate email="christofferfk@gmail.dk"></Obfuscate>    
             </div>
             
         </div>
