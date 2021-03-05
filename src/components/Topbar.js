@@ -1,8 +1,8 @@
 
 import React from 'react';
 
-import Christoffer from './../assets/christoffer.jpeg'
-import logo from './../assets/logo.jpeg'
+import Christoffer from './../assets/christoffer.jpg'
+import logo from './../assets/logo.jpg'
 
 class Topbar extends React.Component {
 
